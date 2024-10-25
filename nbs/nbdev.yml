@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "BayesianBrandTracker"
+  site-url: "https://redam94.github.io/BayesianBrandTracker"
+  description: "A bayesian approach to brand health tracking"
+  repo-branch: main
+  repo-url: "https://github.com/redam94/BayesianBrandTracker"
