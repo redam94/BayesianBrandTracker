@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "btmodel.html",
+    "href": "btmodel.html",
+    "title": "BTModel",
+    "section": "",
+    "text": "source\n\nBTModel\n\n BTModel (positive_outcome_name:str, sample_size_name:str,\n          exogenous_variables:list[str])\n\n*Model implements a pymc model for Bayesian brand tracking\nInitialization parameters:\npositive_outcome_name: str = Name of the positive outcome variable\nsample_size_name: str*\n\nbt_model = BTModel(\"positive_outcome\", \"sample_size\", [\"exog1\", \"exog2\"])",
+    "crumbs": [
+      "BTModel"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "BayesianBrandTracker",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "BayesianBrandTracker"
+    ]
+  },
+  {
+    "objectID": "index.html#developer-guide",
+    "href": "index.html#developer-guide",
+    "title": "BayesianBrandTracker",
+    "section": "Developer Guide",
+    "text": "Developer Guide\nIf you are new to using nbdev here are some useful pointers to get you started.\n\nInstall BayesianBrandTracker in Development mode\n# make sure BayesianBrandTracker package is installed in development mode\n$ pip install -e .\n\n# make changes under nbs/ directory\n# ...\n\n# compile to have changes apply to BayesianBrandTracker\n$ nbdev_prepare",
+    "crumbs": [
+      "BayesianBrandTracker"
+    ]
+  },
+  {
+    "objectID": "index.html#usage",
+    "href": "index.html#usage",
+    "title": "BayesianBrandTracker",
+    "section": "Usage",
+    "text": "Usage\n\nInstallation\nInstall latest from the GitHub repository:\n$ pip install git+https://github.com/redam94/BayesianBrandTracker.git\nor from conda\n$ conda install -c redam94 BayesianBrandTracker\nor from pypi\n$ pip install BayesianBrandTracker\n\n\nDocumentation\nDocumentation can be found hosted on this GitHub repository’s pages. Additionally you can find package manager specific guidelines on conda and pypi respectively.",
+    "crumbs": [
+      "BayesianBrandTracker"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "BayesianBrandTracker",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "BayesianBrandTracker"
+    ]
+  }
+]
